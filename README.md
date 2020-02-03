@@ -10,5 +10,5 @@ When my sister sees a nice car, she always asks me what car it is, but I don’t
 - iOS Simulator or a physical iOS device (v9.0+)
 - Tensorflow Lite
 ## Start
-The model is in the folder "examples".
+The model is in the folder "example".
 More details are in the file "instruction".
